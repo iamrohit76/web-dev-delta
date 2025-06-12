@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    text-decoration: underline red;
+    letter-spacing: normal;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+h2{
+    text-align: end;
+    text-decoration: overline red;
+    font-family: impact;
+}
+h3{
+    text-align:center;
+    font-weight: 600;
+    text-decoration: wavy chocolate;
+}
+p{
+    text-align: center;
+    font-weight: bolder ;
+    text-decoration: wavy;
+    line-height: 10;
+    font-size: 10px;
+    
+}
+a{
+     text-decoration:none ;
+}

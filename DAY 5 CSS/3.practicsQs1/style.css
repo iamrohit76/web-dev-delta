@@ -1,0 +1,15 @@
+/* h2{
+    color: rgb(114, 114, 114);
+} */
+ h2{
+    color: #fff;
+    background-color: #000;
+ }
+p{
+    color: white;
+    background-color: black;
+}
+button{
+    color:white;
+    background-color: blue;
+}
